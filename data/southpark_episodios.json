@@ -1,0 +1,157 @@
+{
+  "capitulos": [
+    {
+      "id": 1,
+      "name": "Cartman's Mom is a Dirty Slut",
+      "season": 1,
+      "episode": 13,
+      "air_date": "1998-02-25",
+      "wiki_url": "https://southpark.fandom.com/wiki/Cartman's_Mom_is_a_Dirty_Slut",
+      "thumbnail_url": "assets/images/ep1.png",
+      "description": "En este impactante final de temporada, Cartman emprende una búsqueda desesperada para descubrir quién es su verdadero padre, luego de que su madre se niega a decirle la verdad. Mientras tanto, todo el pueblo se prepara para un emocionante combate de boxeo entre Jesús y Satanás, en un evento que divide a los ciudadanos. A medida que las sospechas de Cartman crecen, se revelan secretos inesperados que lo dejan más confundido que antes.",
+      "created_at": "2022-03-10T17:03:24.000000Z",
+      "updated_at": "2022-03-10T17:03:24.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/1",
+        "https://spapi.dev/api/locations/5"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Weight Gain 4000",
+      "season": 1,
+      "episode": 2,
+      "air_date": "1997-08-20",
+      "wiki_url": "https://southpark.fandom.com/wiki/Weight_Gain_4000",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Cartman se obsesiona con aumentar su masa corporal para convertirse en una celebridad local y comienza a tomar un suplemento llamado 'Weight Gain 4000'. Mientras tanto, el Sr. Garrison, en un intento de lidiar con sus traumas del pasado, planea asesinar a Kathie Lee Gifford cuando ella llega a la ciudad para una premiación escolar. La locura se desata mientras Cartman engorda desmesuradamente y Garrison pierde el control.",
+      "created_at": "2022-03-11T12:14:10.000000Z",
+      "updated_at": "2022-03-11T12:14:10.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/3"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Volcano",
+      "season": 1,
+      "episode": 3,
+      "air_date": "1997-08-27",
+      "wiki_url": "https://southpark.fandom.com/wiki/Volcano",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Los niños se embarcan en una aventura de caza con el tío Jimbo y su amigo Ned, quienes intentan enseñarles sobre la vida salvaje y las armas. Sin embargo, su excursión se convierte en una carrera por sobrevivir cuando descubren que un volcán cercano está a punto de hacer erupción. La mezcla de comedia absurda y sátira de películas de desastres convierte este episodio en uno de los clásicos de la primera temporada.",
+      "created_at": "2022-03-12T10:00:00.000000Z",
+      "updated_at": "2022-03-12T10:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/3",
+        "https://spapi.dev/api/locations/7"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Big Gay Al's Big Gay Boat Ride",
+      "season": 1,
+      "episode": 4,
+      "air_date": "1997-09-03",
+      "wiki_url": "https://southpark.fandom.com/wiki/Big_Gay_Al's_Big_Gay_Boat_Ride",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Cuando Stan descubre que su perro Sparky es gay, entra en conflicto con lo que le han enseñado sobre la sexualidad. Sparky termina escapando y encontrando refugio en el santuario del extravagante y carismático Big Gay Al, quien le enseña a Stan sobre la aceptación y el orgullo gay. Mientras tanto, el equipo de fútbol de la escuela se prepara para un gran partido en medio de confusión y humor irreverente.",
+      "created_at": "2022-03-13T08:00:00.000000Z",
+      "updated_at": "2022-03-13T08:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/10"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "An Elephant Makes Love to a Pig",
+      "season": 1,
+      "episode": 5,
+      "air_date": "1997-09-10",
+      "wiki_url": "https://southpark.fandom.com/wiki/An_Elephant_Makes_Love_to_a_Pig",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Kyle y sus amigos intentan realizar un experimento de genética para crear una nueva especie animal cruzando un elefante con un cerdo. Buscan la ayuda de un científico loco que accede a colaborar, desatando consecuencias inesperadas y grotescas. Paralelamente, el hermano gemelo malvado de Stan llega al pueblo, causando caos en la vida del protagonista.",
+      "created_at": "2022-03-14T17:00:00.000000Z",
+      "updated_at": "2022-03-14T17:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/11"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Death",
+      "season": 1,
+      "episode": 6,
+      "air_date": "1997-09-17",
+      "wiki_url": "https://southpark.fandom.com/wiki/Death",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "El abuelo de Stan llega a la ciudad con un deseo inusual: quiere que su nieto lo ayude a morir. Mientras tanto, una protesta organizada por los padres contra el programa de televisión 'Terrance and Phillip' desencadena una lucha por la censura en los medios. El episodio aborda temas complejos como la eutanasia y la libertad de expresión con el característico estilo provocador de South Park.",
+      "created_at": "2022-03-15T15:00:00.000000Z",
+      "updated_at": "2022-03-15T15:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/12"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pinkeye",
+      "season": 1,
+      "episode": 7,
+      "air_date": "1997-10-29",
+      "wiki_url": "https://southpark.fandom.com/wiki/Pinkeye",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Durante Halloween, una extraña sustancia provoca que los muertos regresen como zombis con síntomas de conjuntivitis. Mientras el brote se esparce por todo South Park, los niños intentan salvar la ciudad disfrazados de sus ídolos. Con parodias a las películas de terror y una dosis de humor negro, este episodio mezcla el horror con la comedia de forma magistral.",
+      "created_at": "2022-03-16T20:00:00.000000Z",
+      "updated_at": "2022-03-16T20:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/13",
+        "https://spapi.dev/api/locations/14"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Starvin' Marvin",
+      "season": 1,
+      "episode": 8,
+      "air_date": "1997-11-19",
+      "wiki_url": "https://southpark.fandom.com/wiki/Starvin'_Marvin",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Los chicos intentan conseguir un reloj gratis donando dinero a una organización humanitaria, pero en su lugar reciben por error a Starvin' Marvin, un niño etíope. Marvin escapa por el pueblo, mientras la organización intenta atraparlo. A través de una sátira feroz al consumismo y la caridad occidental, el episodio ofrece críticas sociales con un toque absurdo.",
+      "created_at": "2022-03-17T18:00:00.000000Z",
+      "updated_at": "2022-03-17T18:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/15"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Mr. Hankey, the Christmas Poo",
+      "season": 1,
+      "episode": 9,
+      "air_date": "1997-12-17",
+      "wiki_url": "https://southpark.fandom.com/wiki/Mr._Hankey,_the_Christmas_Poo",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "En un intento de hacer la obra navideña de la escuela más inclusiva, los adultos eliminan todo contenido religioso, lo que lleva a una obra insípida y sin espíritu. Kyle, al sentirse excluido por ser judío, presenta a Mr. Hankey, un trozo de excremento parlante que celebra la Navidad con alegría. Sin embargo, nadie le cree y lo envían a un hospital mental. Este episodio se convirtió en un ícono por su irreverencia y mensaje de inclusión.",
+      "created_at": "2022-03-18T17:00:00.000000Z",
+      "updated_at": "2022-03-18T17:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/16"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Damien",
+      "season": 1,
+      "episode": 10,
+      "air_date": "1998-02-04",
+      "wiki_url": "https://southpark.fandom.com/wiki/Damien",
+      "thumbnail_url": "assets/images/ep2.png",
+      "description": "Un nuevo estudiante llega a la escuela: Damien, el hijo de Satanás. Pronto se revela que ha venido para preparar el combate entre su padre y Jesucristo, programado como un espectáculo de lucha libre. Mientras la ciudad apuesta por el resultado del combate, Stan es obligado a invitar a Damien a su fiesta. El episodio mezcla sátira religiosa y humor escolar con un toque sobrenatural.",
+      "created_at": "2022-03-19T13:00:00.000000Z",
+      "updated_at": "2022-03-19T13:00:00.000000Z",
+      "locations": [
+        "https://spapi.dev/api/locations/17"
+      ]
+    }
+  ]
+}
